@@ -1,0 +1,22 @@
+{
+  "name": "a00-clairehhelms",
+  "version": "1.0.0",
+  "description": "setup for 426 assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a00-clairehhelms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a00-clairehhelms/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a00-clairehhelms#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5"
+  }
+}
